@@ -6,6 +6,8 @@
 
 [<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/user/swyqyimdc12jajde4vpwd2x1b)
 
+---
+
 ### Connect with me:
 
 [<img src="https://img.icons8.com/plasticine/100/000000/discord-new-logo.png"/>][discord] @Tyrell#5203
@@ -32,8 +34,7 @@
 <br />
 <br />
 
----
-
+### :zap: Recent GitHub Activity
 <!--START_SECTION:activity-->
 <!--END_SECTION:activity-->
 
