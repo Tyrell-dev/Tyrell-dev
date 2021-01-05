@@ -8,7 +8,7 @@
 
 ### Connect with me:
 
-[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="<img src="https://img.icons8.com/plasticine/100/000000/discord-new-logo.png"/>" />][discord] @Tyrell#5203
+[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://img.icons8.com/plasticine/100/000000/discord-new-logo.png" />][discord] @Tyrell#5203
 
 <br />
 
