@@ -28,7 +28,7 @@
 
 ---
 
-<img align="left" alt="GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=Tyrell-dev&show_icons=true&hide_border=true&theme=dark&count_private=true" />
+<img align="left" alt="GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=Tyrell-dev&show_icons=true&hide_border=true&theme=dark&count_private=true&hide=prs,issues&bg_color=#0d1117" />
 <br />
 <br />
 
